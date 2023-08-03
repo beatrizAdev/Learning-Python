@@ -1,3 +1,9 @@
+# Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla.
+# Mostre quantas vezes apareceu o valor 9.
+# Mostre em que posição foi digitado o primeiro valor 3.
+# E mostre quais foram os números pares.
+
+
 num = (int(input("Digite um número: ")), int(input("Digite outro número: ")),
        int(input("Digite mais um número: ")), int(input("Digite o último número: ")))
 

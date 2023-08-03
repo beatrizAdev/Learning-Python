@@ -8,7 +8,7 @@ print(lanches)
 print(lanches[2])
 print(lanches[0:3])
 
-# Informa quantos itens tem em cada tupla
+# Informa quantos itens tem na tupla
 lanches = ("hambúrguer", "1", "pizza", "cerveja", "batata", "cerveja")
 print(len(lanches))
 

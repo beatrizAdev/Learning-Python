@@ -1,4 +1,4 @@
-# informar se um número esta entre 0 a 20.
+# informar se um número esta entre 0 a 20 e caso nao esteja pede novamente ate estar
 
 cont = ("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")
 numero = int(input("Digite um número entre 0 e 20: "))

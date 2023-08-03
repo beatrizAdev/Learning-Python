@@ -4,7 +4,7 @@ for x in roupas:
     print(x)
 
 
-separar = '''===================================='''
+separar = '''==================================='''
 print(separar)
 
 # Percorrer os itens do número de índice
